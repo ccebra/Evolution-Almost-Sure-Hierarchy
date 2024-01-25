@@ -12,4 +12,4 @@ Contains figures in the paper, along with code scripts required to generate them
 
 
 ### Scripts to generate figure files:
-* 
+* The right three subpanels in Figure 3 are generated with combining_rhos_graphs.m script, applied to the data files located in the subfolder to this folder.
